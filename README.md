@@ -1,4 +1,4 @@
-# ⏱️ wasmy flux js parser
+# 〰️ wasmy flux js parser
 JS Flux parser in Rust
 
 ### 🥇 Install
